@@ -1,5 +1,5 @@
 import './App.css';
-
+import Cards from "./Component/Cards.jsx"
 function App() {
   return (
     <div className="w-screen h-screen">
@@ -18,7 +18,7 @@ function App() {
                   <div className='h-1 bg-black w-[315px] -rotate-90  absolute'></div>
                   <div className='h-1 bg-black w-[315px] -rotate-45  absolute'></div>
                   <div className='h-1 bg-black w-[315px] -rotate-12  absolute'></div>
-
+                 
                 </div>
           </div>
           <div className='bg-green-500 w-auto h-80 mx-auto'>
