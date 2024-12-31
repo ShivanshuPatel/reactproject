@@ -22,7 +22,7 @@ function App() {
                 </div>
           </div>
           <div className='bg-green-500 w-auto h-80 mx-auto'>
-
+                         
         </div>
 
 
