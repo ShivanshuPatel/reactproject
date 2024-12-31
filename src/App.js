@@ -1,9 +1,10 @@
 import './App.css';
+import Cards from './Component/Cards';
 
 function App() {
   return (
     <div className="w-screen h-screen">
-        <div className='bg-orange-400 w-auto h-80 mx-auto'></div>
+        <div className='bg-orange-400 w-auto h-80 mx-auto text-center'> <Cards/></div>
           <div className='bg-white w-auto h-80 mx-auto'>
 
           </div>
