@@ -8,7 +8,7 @@ function App() {
 
           </div>
           <div className='bg-green-500 w-auto h-80 mx-auto'>
-
+                                     <div className='font-extrabold text-4xl w-[100vh] h[100vh]'>chala ja bsdke</div>
         </div>
 
 
