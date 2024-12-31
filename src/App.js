@@ -2,11 +2,16 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-        <div className='bg-orange-400'>SHIVANSHU PATEL</div>
-        <div>HELLO</div>
-     <div>Jiii</div>
-     <div>hiii</div>
+    <div className="w-screen h-screen">
+        <div className='bg-orange-400 w-auto h-80 mx-auto'></div>
+          <div className='bg-white w-auto h-80 mx-auto'>
+
+          </div>
+          <div className='bg-green-500 w-auto h-80 mx-auto'>
+
+        </div>
+
+
     </div>
   );
 }
